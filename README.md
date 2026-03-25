@@ -1,0 +1,2 @@
+# Brazilian-E-Commerce-sales-analysis-Advance-Excel-
+Performed end-to-end data analysis on a Brazilian e-commerce dataset using Excel. Applied data cleaning, transformation, and feature engineering techniques, and developed KPI metrics and pivot-based analysis to identify trends in sales, customer activity, and delivery performance. Currently building an interactive dashboard for business insights.
